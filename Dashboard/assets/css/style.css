@@ -174,3 +174,11 @@ h2.changerh2{
     transition: width .3s;
 	display: block;
 }
+.mgbt{
+    margin-bottom: 20px;
+}
+@media (max-width: 600px) {
+    .mgbt{
+        margin-bottom: 20px;
+    }
+}
